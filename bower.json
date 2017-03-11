@@ -1,0 +1,19 @@
+{
+  "name": "purescript-pux-dice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.5.0",
+    "purescript-console": "^2.0.0",
+    "purescript-pux": "^7.0.0",
+    "purescript-random": "^2.0.0",
+    "purescript-pux-devtool": "^4.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}
