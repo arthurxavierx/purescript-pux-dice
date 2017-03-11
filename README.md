@@ -1,5 +1,5 @@
 # purescript-pux-dice
-Example application for the presentation _PureScript & Pux_
+Example application for the presentation [PureScript & Pux](http://goo.gl/8vV5bP)
 
 ## Building and running
 ```bash
