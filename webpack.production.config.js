@@ -8,7 +8,7 @@ module.exports = {
   output: {
     path: path.resolve('./dist'),
     filename: '[name]-[hash].min.js',
-    publicPath: '/talks/'
+    publicPath: '/purescript-pux-dice/'
   },
   module: {
     loaders: [

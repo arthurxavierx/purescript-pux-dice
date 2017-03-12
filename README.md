@@ -1,5 +1,7 @@
 # purescript-pux-dice
-Example application for the presentation [PureScript & Pux](http://goo.gl/8vV5bP)
+Example application for the presentation [PureScript & Pux](http://goo.gl/8vV5bP).
+
+[Working demo](https://arthur-xavier.github.io/purescript-pux-dice/)
 
 ## Building and running
 ```bash
